@@ -5,6 +5,7 @@ This is a tool that I made using C++ and an external library of it called Crypto
 You can install Crypto++ like this:
 
 Linux:
+
 <code>
   sudo apt update
   sudo apt install libcrypto++-dev libcrypto++-doc libcrypto++-utils
