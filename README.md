@@ -12,6 +12,7 @@ Linux:
 </code>
 
 Mac (with homebrew):
+
 <code>
   brew install cryptopp
 </code>
