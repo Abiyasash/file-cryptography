@@ -6,25 +6,20 @@ You can install Crypto++ like this:
 
 Linux:
 
-<code>
-  sudo apt update
+<code>sudo apt update
   sudo apt install libcrypto++-dev libcrypto++-doc libcrypto++-utils
 </code>
 
 Mac (with homebrew):
 
-<code>
-  brew install cryptopp
-</code>
+<code>brew install cryptopp</code>
 
 Windows:
 Go to cryptopp.com and download the zip file and extract it.
 
 To compile this program, you would have to add a little bit more to the command.
 
-<code>
-  g++ main.cpp -lcryptopp -o main
-</code>
+<code>g++ main.cpp -lcryptopp -o main</code>
 
 You have to add -lcryptopp to the middle of it.
 
